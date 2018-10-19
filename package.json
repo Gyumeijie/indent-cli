@@ -1,0 +1,29 @@
+{
+  "name": "indent-cli",
+  "version": "1.0.0",
+  "description": "Simple cli tool for indenting JavaScript file",
+  "main": "indent.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indent",
+    "indentation",
+    "cli",
+    "javascript",
+    "js"
+  ],
+  "bin": {
+    "indent": "indent.sh"
+  },
+  "author": "gyumeijie <18170879819@163.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gyumeijie/indent-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gyumeijie/indent-cli/issues"
+  },
+  "homepage": "https://github.com/Gyumeijie/indent-cli",
+  "license": "MIT"
+}
