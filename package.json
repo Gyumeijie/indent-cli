@@ -1,6 +1,6 @@
 {
   "name": "indent-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple cli tool for indenting JavaScript file",
   "main": "indent.sh",
   "scripts": {
@@ -14,7 +14,7 @@
     "js"
   ],
   "bin": {
-    "indent": "indent.sh"
+    "indentjs": "indent.sh"
   },
   "author": "gyumeijie <18170879819@163.com>",
   "repository": {

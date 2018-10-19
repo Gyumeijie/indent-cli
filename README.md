@@ -9,6 +9,6 @@ Simple cli tool for indenting JavaScript file.
 # Usage
 
 ```bash
-$ indent 2 ./index.js
-$ indent ./index.js 2
+$ indentjs 2 ./index.js
+$ indentjs ./index.js 2
 ```
